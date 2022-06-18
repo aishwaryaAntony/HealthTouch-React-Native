@@ -1,1 +1,0 @@
-# HealthTouch-React-Native
